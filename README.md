@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nOoxxey
+- 👋 Hi, I’m Georgi a.k.a Nooxxey :)
 - 👀 I’m interested in Photography, Cars, Motorsports and IT technologies
 - 🌱 I’m currently learning QA Manual and Automation testing (in proccess)
 - 💞️ I’m looking to collaborate on any open QA testing projects
